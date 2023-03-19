@@ -1,3 +1,5 @@
+  alert("Why do programmers prefer dark mode? Because light attracts bugs.");
+};
 function openLoginPopup() {
   document.getElementById("login-popup").style.display = "block";
 }
